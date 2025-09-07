@@ -1,0 +1,21 @@
+query,ground_truth,fuzzy_pred,tfidf_pred,tfidf_score
+Unabel to conect to the internet,1,-1,1,0.5559733949526011
+Can’t connect to internet,1,-1,1,0.6764627066857578
+Intenet not working,1,-1,-1,0.0
+Payment failed while chekout,2,-1,2,0.38813059411225814
+Payment did not go through during chckout,2,-1,2,0.3190817598317858
+Payment issue at check out,2,-1,2,0.13767820420389656
+Application crashes when opening setings,3,-1,3,0.5774797829600843
+App crash when going to settings,3,-1,3,0.4909144948425227
+Settings cause the app to chrash,3,-1,3,0.3159790136333132
+Forgot passwrd and cant reset,4,-1,4,0.5583296590023723
+"Forgotten password, unable to reset",4,-1,4,0.5800055174990207
+I can’t reset my password,4,-1,4,0.34514966986432183
+Unable to uplod file to server,5,-1,5,0.5129303199801954
+Can't upload files on to the server,5,-1,5,0.7094974476260267
+File uploading to server not working,5,-1,5,0.2571512860927776
+"No internet connection, please help",1,-1,1,0.14276440895771095
+Checkout page says payment failed,2,-1,2,0.6055479476183181
+Settings page crashes app immediately,3,-1,3,0.5219762064966883
+Password reset link not working,4,-1,4,0.31429157562343735
+Server upload fails with an error message,5,-1,5,0.23185148920113036

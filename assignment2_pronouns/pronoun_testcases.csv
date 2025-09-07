@@ -1,0 +1,27 @@
+input_text,target_gender,expected_output
+He is going to the market.,female,She is going to the market.
+His book is on the table.,female,Her book is on the table.
+I saw him yesterday.,female,I saw her yesterday.
+He hurt himself.,female,She hurt herself.
+I called him last night.,female,I called her last night.
+That is his car.,female,That is her car.
+He told me about his trip.,female,She told me about her trip.
+The teacher gave him a warning.,female,The teacher gave her a warning.
+He blames himself for the mistake.,female,She blames herself for the mistake.
+He brought his laptop.,female,She brought her laptop.
+He made it himself.,female,She made it herself.
+I don’t like his attitude.,female,I don’t like her attitude.
+Tell him to come here.,female,Tell her to come here.
+She is going to the market.,male,He is going to the market.
+Her book is on the table.,male,His book is on the table.
+I saw her yesterday.,male,I saw him yesterday.
+She hurt herself.,male,He hurt himself.
+I called her last night.,male,I called him last night.
+That is her car.,male,That is his car.
+She told me about her trip.,male,He told me about his trip.
+The teacher gave her a warning.,male,The teacher gave him a warning.
+She blames herself for the mistake.,male,He blames himself for the mistake.
+She brought her laptop.,male,He brought his laptop.
+She made it herself.,male,He made it himself.
+I don’t like her attitude.,male,I don’t like his attitude.
+Tell her to come here.,male,Tell him to come here.

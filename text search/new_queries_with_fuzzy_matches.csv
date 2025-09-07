@@ -1,0 +1,21 @@
+Variation_Query,Matches_With_Query_ID,proc_query,fuzzy_pred
+Unabel to conect to the internet,1,unabel to conect to the internet,-1
+Can’t connect to internet,1,can't connect to internet,-1
+Intenet not working,1,intenet not working,-1
+Payment failed while chekout,2,payment failed while chekout,-1
+Payment did not go through during chckout,2,payment did not go through during chckout,-1
+Payment issue at check out,2,payment issue at check out,-1
+Application crashes when opening setings,3,application crashes when opening setings,-1
+App crash when going to settings,3,app crash when going to settings,-1
+Settings cause the app to chrash,3,settings cause the app to chrash,-1
+Forgot passwrd and cant reset,4,forgot passwrd and cant reset,-1
+"Forgotten password, unable to reset",4,forgotten password unable to reset,-1
+I can’t reset my password,4,i can't reset my password,-1
+Unable to uplod file to server,5,unable to uplod file to server,-1
+Can't upload files on to the server,5,can't upload files on to the server,-1
+File uploading to server not working,5,file uploading to server not working,-1
+"No internet connection, please help",1,no internet connection please help,-1
+Checkout page says payment failed,2,checkout page says payment failed,-1
+Settings page crashes app immediately,3,settings page crashes app immediately,-1
+Password reset link not working,4,password reset link not working,-1
+Server upload fails with an error message,5,server upload fails with an error message,-1
